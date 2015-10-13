@@ -1,3 +1,3 @@
 # node
-run node index.js
+run node index.js;
 http://localhost:8080/
